@@ -36,5 +36,8 @@ $btn-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 $btn-menu-shadows: 0px 2px 2px 0px #0000001f, 0px 1px 2px 0px #00000014,
   0px 3px 1px 0px #0000001a;
 
-$page-banner-gradien: url(../../images/people_squoosh.jpg),
-  linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4));
+$page-banner-gradien: linear-gradient(
+    rgba(47, 48, 58, 0.4),
+    rgba(47, 48, 58, 0.4)
+  ),
+  url(/goit-markup-hw-07/images/people_squoosh.jpg);
