@@ -2,7 +2,12 @@
   margin: 0 auto;
   max-width: 1600px;
   height: 600px;
-  background-image: $page-banner-gradien;
+  background-image: linear-gradient(
+      rgba(47, 48, 58, 0.4),
+      rgba(47, 48, 58, 0.4)
+    ),
+    url(/goit-markup-hw-07/images/people_squoosh.jpg);
+
   background-size: cover;
   color: $white-font-color;
   padding-top: 200px;
