@@ -1,7 +1,7 @@
 $general-font: "Roboto", sans-serif;
 $logo-font: "Raleway", sans-serif;
 
-$general-blue-color: #000;
+$general-blue-color: #2196f3;
 $general-gray-color: #2f303a;
 $container-team-color: #f5f4fa;
 $general-font-color: #212121;
@@ -36,8 +36,4 @@ $btn-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 $btn-menu-shadows: 0px 2px 2px 0px #0000001f, 0px 1px 2px 0px #00000014,
   0px 3px 1px 0px #0000001a;
 
-$page-banner-gradien: linear-gradient(
-    rgba(47, 48, 58, 0.4),
-    rgba(47, 48, 58, 0.4)
-  ),
-  url(../../images/growing-business.jpg);
+$page-banner-gradien: url(../../images/people_squoosh.jpg);
