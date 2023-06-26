@@ -1,10 +1,8 @@
-@import "utils/variables";
-
 .page-banner {
   margin: 0 auto;
   max-width: 1600px;
   height: 600px;
-  background-image: $page-banner-gradient, url($people-squoosh-image);
+  background-image: $page-banner-gradient, $people-squoosh-image;
 
   background-size: cover;
   color: $white-font-color;
